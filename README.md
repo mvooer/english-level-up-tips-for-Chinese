@@ -11,10 +11,12 @@
 
 在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
-## Gitbook链接
+## GitBook链接
 
-为方便大家阅读，故将本repo同步至Gitbook，链接在下方：
+为方便大家阅读，将本repo同步至[GitBook](https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese)：
 https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
+
+>本页面的章节链接采用的是相对路径，在GitBook上是不正确的，请使用Gitook自带的章节导航
 
 ## 英语水平等级
 
@@ -28,7 +30,9 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 ![How@2x.png](assets/How@2x.png)
 
 ## 章节
+
 ### 已完成：
+
 [![understanding@2x.png](assets/understanding@2x.png)](part-1/1-understanding.md)
 
 [![vocabulary@2x.png](assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
@@ -41,11 +45,12 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
+
 ### 待完成：
 
 ![writing@2x.png](assets/writing@2x.png)
 
->由于最近工作任务较重，写作篇延期，暂无具体计划，请谅解！
+>由于工作与学习绘画等原因，写作篇暂无具体计划，请谅解！
 
 ---
 
@@ -54,13 +59,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
 工程巨大，需要较长的时间进行整理。
 
-## 从哪里开始
-- [认知篇](part-1/1-understanding.md)
-- [单词篇](part-1/2-vocabulary.md)
-- [听力篇](part-1/3-listening.md)
-- [阅读篇](part-1/4-reading.md)
-- [口语篇](part-1/5-speaking.md)
-- [扯淡篇](part-2/x-misc.md)
+
 
 ## 为 初学者单词表 做贡献
 
